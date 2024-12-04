@@ -125,7 +125,7 @@ section {
 .cajita img {
     width: 100px; 
     height: auto; 
-    margin-right: 1rem;
+    margin-right: 1.5rem;
     border-radius: 10px;
     transition: 0.5s;
 }
